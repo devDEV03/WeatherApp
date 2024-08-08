@@ -9,10 +9,6 @@
     background-image: url('https://images.news18.com/ibnlive/uploads/2023/04/pti03_30_2023_000197b-16805735963x2.jpg');
 }
 
-.bg sunny{
-    background-image: url('https://news.northeastern.edu/wp-content/uploads/2024/03/Traffic1400.jpg?resize=1200,800');
-}
-
 .weatherApp{
     background: linear-gradient(135deg,rgb(76, 145, 132),rgb(113, 165, 113));
     width : 90%;
