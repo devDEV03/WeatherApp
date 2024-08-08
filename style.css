@@ -15,7 +15,7 @@
 
 .weatherApp{
     background: linear-gradient(135deg,rgb(76, 145, 132),rgb(113, 165, 113));
-    width : 100%;
+    width : 90%;
     max-width : 470px;
     color: #fff;
     margin: 100px auto 0px;
